@@ -4,9 +4,9 @@ DROP TABLE IF EXISTS `user`;
 DROP TABLE IF EXISTS encomenda;
 DROP TABLE IF EXISTS carrinhoproduto;
 DROP TABLE IF EXISTS carrinho;
-DROP TABLE IF EXISTS categoria;
 DROP TABLE IF EXISTS produto;
 DROP TABLE IF EXISTS subcategoria;
+DROP TABLE IF EXISTS categoria;
 
 
 CREATE TABLE `user` (
